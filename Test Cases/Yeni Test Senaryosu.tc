@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Github çalışma durumunu kontrol için oluşturuldu</description>
-   <name>Yeni Test Senaryosu</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>dd70de00-2a65-4f87-9452-e8dfbc155a67</testCaseGuid>
-</TestCaseEntity>
