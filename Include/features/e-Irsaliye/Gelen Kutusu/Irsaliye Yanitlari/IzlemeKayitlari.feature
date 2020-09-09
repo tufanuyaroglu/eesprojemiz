@@ -17,4 +17,4 @@ Feature: Irsaliye Yanitinin Gecmisi
 
     Examples: 
       | filtreDegeri | filtreDegeri2 | veri_Adi | baslik                    |
-      |   01.01.2018 |    31.12.2018 | GENEL    | İrsaliye İzleme Kayıtları |
+      |   01.01.2018 |    31.12.2018 | GENEL    | İrsaliye Yanıtları İzleme Kayıtları |

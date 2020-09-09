@@ -12,10 +12,10 @@ Feature: e-Irsaliye Gelen Kutusu Uygulama Yanıtlari UBL - Goster
     * Butonlardan UBL isimli butona tıklanır
     * Alt butonlardan Göster butonuna tıklanır
     * Yeni açılan sekmeye geçilir
-		* <tag> tagli ubl geldi mi
+    * <tag> tagli ubl geldi mi
     * Ana sekmeye geçilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	| filtreDegeri2	| veri_Adi 	                | tag						|
-      | 01.04.2020		| 30.04.2020		| Logo Elektronik GIB Test	| ReceiptAdvice |
+      | filtreDegeri | filtreDegeri2 | veri_Adi | tag           |
+      |   01.01.2018 |    30.12.2018 | GENEL    | ReceiptAdvice |
