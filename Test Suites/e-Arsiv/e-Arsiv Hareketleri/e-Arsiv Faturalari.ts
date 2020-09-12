@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>1a9122a9-6c40-4f36-bfab-be255e087514</testSuiteGuid>
    <testCaseLink>
       <guid>9055a5cc-7455-4f8e-bba6-89a6c69ab7b5</guid>
@@ -73,25 +74,25 @@
    <testCaseLink>
       <guid>b1cc832c-d4ee-44ad-8f08-e842729ac8fe</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Arsiv/e-Arsiv Hareketleri/e-Arsiv Faturalari/Toplu Indirme-PDF Secilenler</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>104ed1a7-2018-496d-9c42-516bcf43551e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Arsiv/e-Arsiv Hareketleri/e-Arsiv Faturalari/Toplu Indirme-PDF Tumu</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>2a2c19d8-bcc7-46a0-953d-cd0ae3b7c2f2</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Arsiv/e-Arsiv Hareketleri/e-Arsiv Faturalari/Excele Aktar</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>8d540347-36ad-4757-bf18-f3afc07c03b7</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Arsiv/e-Arsiv Hareketleri/e-Arsiv Faturalari/Tumunu Excele Aktar</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

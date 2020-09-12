@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>ef17bc06-67d1-451f-913e-822a4c20eaac</testSuiteGuid>
    <testCaseLink>
       <guid>4b93148b-e712-4061-896a-49f368785d99</guid>
@@ -31,13 +32,13 @@
    <testCaseLink>
       <guid>ff2e953b-0b55-432d-8406-000cefce55cf</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/Excele Aktar</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>9917cbbe-34cd-4923-a959-f2ce50408e63</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/Tumunu Excele Aktar</testCaseId>
    </testCaseLink>
    <testCaseLink>
@@ -61,25 +62,25 @@
    <testCaseLink>
       <guid>d0b2a90f-2b14-4108-8d9d-258022073ff5</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/Toplu Indirme-PDF Secilenler</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>34d91aeb-2107-4299-8fea-46990571ce94</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/Toplu Indirme-PDF Tumu</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>6fd63806-e9f2-49b5-b850-1a46d785aedf</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/Toplu Indirme-UBL Secilenler</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>604ad3dd-1f2e-408a-8360-bcf78a70935f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/Toplu Indirme-UBL Tumu</testCaseId>
    </testCaseLink>
    <testCaseLink>
@@ -115,13 +116,13 @@
    <testCaseLink>
       <guid>51196b4c-1afe-44ff-a138-5ff3721ad122</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/Departman Ata</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>ca54075d-b37c-45f8-85c7-a172df79e733</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/Departman Geri Al</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>b67a7712-d3e1-43b7-a24c-07d497aac2d8</testSuiteGuid>
    <testCaseLink>
       <guid>731195f2-bc88-4136-9c07-f4abb802c06b</guid>
@@ -55,7 +56,7 @@
    <testCaseLink>
       <guid>8a307ee5-dbe2-41e5-ac9b-eaa152c9f03f</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/e-Fatura Araclari/e-Fatura Olusturma/As400</testCaseId>
    </testCaseLink>
    <testCaseLink>

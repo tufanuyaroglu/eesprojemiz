@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>3d37197c-7b7c-44b6-9b0d-5938f177a294</testSuiteGuid>
    <testCaseLink>
       <guid>8ae15c32-2533-41e9-8fef-23e385068db3</guid>
@@ -31,37 +32,37 @@
    <testCaseLink>
       <guid>ac12676f-0b36-45fb-9799-227def4cbc1b</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Faturalar/Excele Aktar</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>8493f512-490b-47b8-aea9-016700d73d50</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Faturalar/Tumunu Excele Aktar</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>bd02ad37-0a62-4108-9947-90c04846170e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Faturalar/Toplu Indirme-PDF Secilenler</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>ad542198-c2b6-48d2-b006-8d2585f74ae6</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Faturalar/Toplu Indirme-PDF Tumu</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>238dc4fc-f190-4316-8975-98ca402d95d8</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Faturalar/Toplu Indirme-UBL Secilenler</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>a2acb3f9-c322-467f-ac33-bc4e274013f3</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Faturalar/Toplu Indirme-UBL Tumu</testCaseId>
    </testCaseLink>
    <testCaseLink>
