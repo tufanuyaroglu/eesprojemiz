@@ -1,0 +1,197 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 18,
+        "name": "Kullanici Tanimlari Buton Kontrolu",
+        "description": "",
+        "id": "kullanici-tanimlari-buton-kontrolu;kullanici-tanimlari-buton-kontrolu;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7903427400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Giriş yapılır",
+            "match": {
+              "location": "girisSayfasi.login()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 488836300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Ana menüden Firma Yönetimi seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Firma Yönetimi",
+                  "offset": 12
+                }
+              ],
+              "location": "menu.anaMenuSecimi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 2034911000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Alt menüden Yetki Yönetimi seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Yetki Yönetimi",
+                  "offset": 12
+                }
+              ],
+              "location": "menu.altMenuSecimi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 242990700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Sekmelerden Kullanıcı Tanımları seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Kullanıcı Tanımları",
+                  "offset": 12
+                }
+              ],
+              "location": "yetkiYonetimi.sekmeSecilir(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 133394800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Butonlardan Kullanıcı Ekle var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Kullanıcı Ekle",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 148294600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Butonlardan Değiştir var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Değiştir",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 156162800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Butonlardan Sil var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Sil",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 153011400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Butonlardan Şifre Sıfırla var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Şifre Sıfırla",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 172837700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Butonlardan Rol ve Departman Tanımla var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Rol ve Departman Tanımla",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 736775200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Kullanıcı işlemlerinden Çıkış seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Çıkış",
+                  "offset": 24
+                }
+              ],
+              "location": "kullaniciIslemleri.kullaniciIslemi(String)"
+            },
+            "keyword": "* "
+          }
+        ]
+      }
+    ],
+    "name": "Kullanici Tanimlari Buton Kontrolu",
+    "description": "",
+    "id": "kullanici-tanimlari-buton-kontrolu",
+    "keyword": "Feature",
+    "uri": "C:/otomasyonprojeler/EES/Include/features/Firma Yonetimi/Yetki Yonetimi/Kullanici Tanimlari/Buton Kontrolu.feature",
+    "tags": []
+  }
+]

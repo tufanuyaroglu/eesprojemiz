@@ -1,0 +1,111 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 13,
+        "name": "Adres Defteri Buton Kontrolu",
+        "description": "",
+        "id": "adres-defteri-buton-kontrolu;adres-defteri-buton-kontrolu;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8025696800,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Giriş yapılır",
+            "match": {
+              "location": "girisSayfasi.login()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 456642700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Ana menüden Ayarlar seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ayarlar",
+                  "offset": 12
+                }
+              ],
+              "location": "menu.anaMenuSecimi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 903312100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Alt menü Araçlar başlığı altındaki Adres Defteri seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Araçlar",
+                  "offset": 9
+                },
+                {
+                  "val": "Adres Defteri",
+                  "offset": 35
+                }
+              ],
+              "location": "menu.basligaGoreAltMenuSecimi(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 141549900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Butonlardan Ekle var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ekle",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 773891900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Kullanıcı işlemlerinden Çıkış seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Çıkış",
+                  "offset": 24
+                }
+              ],
+              "location": "kullaniciIslemleri.kullaniciIslemi(String)"
+            },
+            "keyword": "* "
+          }
+        ]
+      }
+    ],
+    "name": "Adres Defteri Buton Kontrolu",
+    "description": "",
+    "id": "adres-defteri-buton-kontrolu",
+    "keyword": "Feature",
+    "uri": "C:/otomasyonprojeler/EES/Include/features/Ayarlar/Araclar/Adres Defteri/Buton Kontrolu.feature",
+    "tags": []
+  }
+]

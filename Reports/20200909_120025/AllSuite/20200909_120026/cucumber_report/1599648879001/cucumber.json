@@ -1,0 +1,139 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 15,
+        "name": "e-Arsiv Fatura Yukleme Faturalar",
+        "description": "",
+        "id": "e-arsiv-fatura-yukleme-faturalar;e-arsiv-fatura-yukleme-faturalar;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8141199100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Giriş yapılır",
+            "match": {
+              "location": "girisSayfasi.login()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 408905600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Ana menüden e-Saklama seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "e-Saklama",
+                  "offset": 12
+                }
+              ],
+              "location": "menu.anaMenuSecimi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 931465700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Alt menü e-Arşiv başlığı altındaki Fatura Yükleme seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "e-Arşiv",
+                  "offset": 9
+                },
+                {
+                  "val": "Fatura Yükleme",
+                  "offset": 35
+                }
+              ],
+              "location": "menu.basligaGoreAltMenuSecimi(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 544433800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Tablodaki envelope isimli verinin Faturalar adlı butonuna tıklanır",
+            "match": {
+              "arguments": [
+                {
+                  "val": "envelope",
+                  "offset": 10
+                },
+                {
+                  "val": "Faturalar",
+                  "offset": 34
+                }
+              ],
+              "location": "tablo.tablodakiVerininButonunaTiklanir(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 1102261100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Yeni açılan sekmeye geçilir",
+            "match": {
+              "location": "sekmeler.yeniAcilanSekmeyeGecilir()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 139876800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Ana sekmeye geçilir",
+            "match": {
+              "location": "sekmeler.anaSekmeyeGecilir()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 930295000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Kullanıcı işlemlerinden Çıkış seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Çıkış",
+                  "offset": 24
+                }
+              ],
+              "location": "kullaniciIslemleri.kullaniciIslemi(String)"
+            },
+            "keyword": "* "
+          }
+        ]
+      }
+    ],
+    "name": "e-Arsiv Fatura Yukleme Faturalar",
+    "description": "",
+    "id": "e-arsiv-fatura-yukleme-faturalar",
+    "keyword": "Feature",
+    "uri": "C:/otomasyonprojeler/EES/Include/features/e-Saklama/e-Arsiv/Fatura Yukleme/Faturalar.feature",
+    "tags": []
+  }
+]

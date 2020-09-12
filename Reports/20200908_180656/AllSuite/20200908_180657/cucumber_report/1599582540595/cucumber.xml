@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="18.191112">
+<testcase classname="Irsaliyenin departman ata" name="Irsaliyenin departman ata" time="18.191112">
+<system-out><![CDATA[* Giriş yapılır.............................................................passed
+* Ana menüden e-İrsaliye seçilir............................................passed
+* Alt menü Giden Kutusu başlığı altındaki İrsaliyeler seçilir...............passed
+* Filtrelerden Oluşturma Tarihi filtresine 01.01.2020 baslangic degerini yaz.passed
+* Filtrelerden Oluşturma Tarihi filtresine 31.01.2020 bitis degerini yaz....passed
+* Filtre butonlarından Listele seçilir......................................passed
+* Tabloda veri var mı kontrol edilir........................................passed
+* Tablodan ABC A.Ş isimli veri seçilir......................................passed
+* Butonlardan Departman Ata isimli butona tıklanır..........................passed
+* Yeni açılan sekmeye geçilir...............................................passed
+* VirgosolDepartman isimli departman checkboxı seçilir......................passed
+* Departman kaydedilir......................................................passed
+* Popup mesajı Seçilen belgeler ilgili departmanlara aktarılmıştır içeriyor mu.passed
+* Yönetim popupında Tamam seçilir...........................................passed
+* Ana sekmeye geçilir.......................................................passed
+* Kullanıcı işlemlerinden Çıkış seçilir.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>

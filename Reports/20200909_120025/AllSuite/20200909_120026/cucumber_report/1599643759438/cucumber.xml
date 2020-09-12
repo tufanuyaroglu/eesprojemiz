@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="12.285967">
+<testcase classname="e-Arsiv Raporlari Filtre Kontrolu" name="e-Arsiv Raporlari Filtre Kontrolu" time="12.285967">
+<system-out><![CDATA[* Giriş yapılır.............................................................passed
+* Ana menüden e-Arşiv seçilir...............................................passed
+* Alt menü e-Arşiv Hareketleri başlığı altındaki e-Arşiv Raporları seçilir..passed
+* Filtre alanlarında Dönem Tarihi var mı....................................passed
+* Filtre alanlarında Bölüm Tarihi var mı....................................passed
+* Filtre alanlarında ETTN var mı............................................passed
+* Filtre alanlarında Bölüm No var mı........................................passed
+* Filtre alanlarında Durum var mı...........................................passed
+* Filtre alanlarında Saklama var mı.........................................passed
+* Filtre butonlarında Filtreleri Kaydet var mı..............................passed
+* Filtre butonlarında Listele var mı........................................passed
+* Filtre butonlarında Temizle var mı........................................passed
+* Kullanıcı işlemlerinden Çıkış seçilir.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>

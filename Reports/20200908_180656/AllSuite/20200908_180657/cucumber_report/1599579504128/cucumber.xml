@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="13.198389">
+<testcase classname="e-Fatura Olusturma Filtre Kontrolu" name="e-Fatura Olusturma Filtre Kontrolu" time="13.198389">
+<system-out><![CDATA[* Giriş yapılır.............................................................passed
+* Ana menüden e-Fatura seçilir..............................................passed
+* Alt menü e-Fatura Araçları başlığı altındaki e-Fatura Oluşturma seçilir...passed
+* Filtre alanlarında Durumu var mı..........................................passed
+* Filtre alanlarında Oluşturma Tarihi var mı................................passed
+* Filtre alanlarında Toplam Tutar var mı....................................passed
+* Filtre alanlarında Müşteri Bayi Kodu var mı...............................passed
+* Filtre alanlarında Tüm Hesaplar var mı....................................passed
+* Filtre alanlarında Alıcı Ünvan var mı.....................................passed
+* Filtre alanlarında Fatura Tarihi var mı...................................passed
+* Filtre alanlarında Fatura ETTN var mı.....................................passed
+* Filtre alanlarında Fatura No var mı.......................................passed
+* Filtre alanlarında Tür var mı.............................................passed
+* Filtre alanlarında Senaryo var mı.........................................passed
+* Filtre butonlarında Listele var mı........................................passed
+* Filtre butonlarında Temizle var mı........................................passed
+* Kullanıcı işlemlerinden Çıkış seçilir.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="12.049364">
+<testcase classname="Gelen Zarflar Buton Kontrolu" name="Gelen Zarflar Buton Kontrolu" time="12.049364">
+<system-out><![CDATA[* Giriş yapılır.............................................................passed
+* Ana menüden Zarflar seçilir...............................................passed
+* Alt menüden Gelen Zarflar seçilir.........................................passed
+* Butonlardan Excel var mı..................................................passed
+* Butonlardan Toplu İndirme var mı..........................................passed
+* Butonlardan İndir var mı..................................................passed
+* Butonlardan GİB var mı....................................................passed
+* Butonlardan İzleme Kayıtları var mı.......................................passed
+* Butonlardan Excel isimli butona tıklanır..................................passed
+* Alt butonlardan Seçilenleri Excel 'e Aktar var mı.........................passed
+* Alt butonlardan Tümünü Excel 'e Aktar var mı..............................passed
+* Butonlardan Toplu İndirme isimli butona tıklanır..........................passed
+* Alt butonlardan UBL Seçilenleri İndir var mı..............................passed
+* Alt butonlardan UBL Tümünü İndir var mı...................................passed
+* Butonlardan İndir isimli butona tıklanır..................................passed
+* Alt butonlardan İndir var mı..............................................passed
+* Kullanıcı işlemlerinden Çıkış seçilir.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>

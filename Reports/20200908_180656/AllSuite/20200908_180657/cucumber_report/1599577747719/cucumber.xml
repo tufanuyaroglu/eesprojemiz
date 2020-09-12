@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="13.095751">
+<testcase classname="Departman Tanimlari Filtre Kontrolu" name="Departman Tanimlari Filtre Kontrolu" time="13.095751">
+<system-out><![CDATA[* Giriş yapılır.............................................................passed
+* Ana menüden Firma Yönetimi seçilir........................................passed
+* Alt menüden Yetki Yönetimi seçilir........................................passed
+* Sekmelerden Departman Tanımları seçilir...................................passed
+* Filtre alanlarında Departman Adı var mı...................................passed
+* Filtre alanlarında Açıklama var mı........................................passed
+* Filtre alanlarında e-Posta var mı.........................................passed
+* Filtre butonlarında Listele var mı........................................passed
+* Filtre butonlarında Temizle var mı........................................passed
+* Kullanıcı işlemlerinden Çıkış seçilir.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>

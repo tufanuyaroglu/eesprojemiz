@@ -19,5 +19,5 @@ Feature: Irsaliye Yaniti departman ata
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 
-      | filtreDegeri | filtreDegeri2 | veri_Adi | departman         |
-      |   01.01.2018 |    31.12.2018 | GENEL    | VirgosolDepartman |
+      | filtreDegeri | filtreDegeri2 | veri_Adi | departman |
+      |   01.01.2018 |    31.12.2018 | GENEL    | Muhasebe  |

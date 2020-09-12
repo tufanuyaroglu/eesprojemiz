@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="12.319544">
+<testcase classname="e-Serbest Meslek Makbuzu Olusturma Filtre Kontrolu" name="e-Serbest Meslek Makbuzu Olusturma Filtre Kontrolu" time="12.319544">
+<system-out><![CDATA[* Giriş yapılır.............................................................passed
+* Ana menüden e-Makbuz seçilir..............................................passed
+* Alt menü e-Serbest Meslek Uygulaması başlığı altındaki e-Serbest Meslek Makbuzu Oluşturma seçilir.passed
+* Filtre alanlarında Durumu var mı..........................................passed
+* Filtre alanlarında Oluşturma Tarihi var mı................................passed
+* Filtre alanlarında Toplam Tutar var mı....................................passed
+* Filtre alanlarında Alıcı Unvan var mı.....................................passed
+* Filtre alanlarında Makbuz Tarihi var mı...................................passed
+* Filtre alanlarında Makbuz No var mı.......................................passed
+* Filtre alanlarında Makbuz ETTN var mı.....................................passed
+* Filtre butonlarında Listele var mı........................................passed
+* Filtre butonlarında Temizle var mı........................................passed
+* Kullanıcı işlemlerinden Çıkış seçilir.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>

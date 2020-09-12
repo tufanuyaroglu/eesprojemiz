@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="13.165891">
+<testcase classname="e-Arsiv Hazir Tasarim Araci On Deger Ata" name="e-Arsiv Hazir Tasarim Araci On Deger Ata" time="13.165891">
+<system-out><![CDATA[* Giriş yapılır.............................................................passed
+* Ana menüden Ayarlar seçilir...............................................passed
+* Alt menü Görsel Tasarımlar başlığı altındaki Hazır Tasarım Aracı seçilir..passed
+* Sekmelerden e-Arşiv seçilir...............................................passed
+* Mavi Temalı e-Arşiv Öndeğer Şablon Tasarım 2 adlı şablonun Tasarımı İndir adlı butonu var mı.passed
+* Mavi Temalı e-Arşiv Öndeğer Şablon Tasarım 2 adlı şablonun Önizleme adlı butonu var mı.passed
+* Mavi Temalı e-Arşiv Öndeğer Şablon Tasarım 2 adlı şablonun Ön Değer Ata adlı butonu var mı.passed
+* e-Arşiv Öndeğer Şablon Tasarım adlı şablonun Tasarımı İndir adlı butonu var mı.passed
+* e-Arşiv Öndeğer Şablon Tasarım adlı şablonun Önizleme adlı butonu var mı..passed
+* e-Arşiv Öndeğer Şablon Tasarım adlı şablonun Ön Değer Ata adlı butonu var mı.passed
+* Mavi Temalı e-Arşiv Öndeğer Şablon Tasarım adlı şablonun Tasarımı İndir adlı butonu var mı.passed
+* Mavi Temalı e-Arşiv Öndeğer Şablon Tasarım adlı şablonun Önizleme adlı butonu var mı.passed
+* Mavi Temalı e-Arşiv Öndeğer Şablon Tasarım adlı şablonun Ön Değer Ata adlı butonu var mı.passed
+* Kullanıcı işlemlerinden Çıkış seçilir.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>

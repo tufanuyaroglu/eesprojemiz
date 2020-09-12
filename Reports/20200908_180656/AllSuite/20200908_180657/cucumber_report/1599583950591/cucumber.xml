@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="13.302216">
+<testcase classname="e-Serbest Meslek Makbuzlari Filtre Kontrolu" name="e-Serbest Meslek Makbuzlari Filtre Kontrolu" time="13.302216">
+<system-out><![CDATA[* Giriş yapılır.............................................................passed
+* Ana menüden e-Makbuz seçilir..............................................passed
+* Alt menü e-Serbest Meslek Uygulaması başlığı altındaki e-Serbest Meslek Makbuzları seçilir.passed
+* Filtre alanlarında Oluşturma Tarihi var mı................................passed
+* Filtre alanlarında Alıcı Unvan var mı.....................................passed
+* Filtre alanlarında Alıcı TCKN var mı......................................passed
+* Filtre alanlarında ETTN var mı............................................passed
+* Filtre alanlarında Makbuz No var mı.......................................passed
+* Filtre alanlarında Makbuz Tarihi var mı...................................passed
+* Filtre alanlarında Net Ücret var mı.......................................passed
+* Filtre alanlarında KDV Tutarı var mı......................................passed
+* Filtre alanlarında Net Alınan Toplam var mı...............................passed
+* Filtre alanlarında İptal Tarihi var mı....................................passed
+* Filtre alanlarında Durum var mı...........................................passed
+* Filtre alanlarında Rapor Bilgisi var mı...................................passed
+* Filtre alanlarında Belge Statüsü var mı...................................passed
+* Filtre butonlarında Filtreleri Kaydet var mı..............................passed
+* Filtre butonlarında Listele var mı........................................passed
+* Filtre butonlarında Temizle var mı........................................passed
+* Kullanıcı işlemlerinden Çıkış seçilir.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>

@@ -1,0 +1,355 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 24,
+        "name": "VKN Ile e-Arsiv Adresi Olusturma",
+        "description": "",
+        "id": "vkn-ile-e-arsiv-adresi-olusturma;vkn-ile-e-arsiv-adresi-olusturma;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11899656100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Kullanıcı adı ELOGOGIB ve Şifre 123456 olarak giriş yapılır",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ELOGOGIB",
+                  "offset": 14
+                },
+                {
+                  "val": "123456",
+                  "offset": 32
+                }
+              ],
+              "location": "girisSayfasi.login(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 1106660000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Ana menüden Ayarlar seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ayarlar",
+                  "offset": 12
+                }
+              ],
+              "location": "menu.anaMenuSecimi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 2527777100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Alt menü Araçlar başlığı altındaki Adres Defteri seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Araçlar",
+                  "offset": 9
+                },
+                {
+                  "val": "Adres Defteri",
+                  "offset": 35
+                }
+              ],
+              "location": "menu.basligaGoreAltMenuSecimi(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 1069978400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Butonlardan Ekle isimli butona tıklanır",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ekle",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonaTikla(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 1406044700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Adres defteri Adres Ekle başlıklı popup geldi mi",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Adres Ekle",
+                  "offset": 14
+                }
+              ],
+              "location": "adresDefteri.baslikliPopupGeldiMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 3933744700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Adres defteri Kısaltma textboxına VirgosolArsivVKN yazılır",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Kısaltma",
+                  "offset": 14
+                },
+                {
+                  "val": "VirgosolArsivVKN",
+                  "offset": 34
+                }
+              ],
+              "location": "adresDefteri.soldakiTextboxaYaz(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 2558815500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Adres defteri VKN/TCKN No textboxına 5422405266 yazılır",
+            "match": {
+              "arguments": [
+                {
+                  "val": "VKN/TCKN No",
+                  "offset": 14
+                },
+                {
+                  "val": "5422405266",
+                  "offset": 37
+                }
+              ],
+              "location": "adresDefteri.soldakiTextboxaYaz(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 3033385000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Unvan alanına VirgosolOtomasyon yazılır",
+            "match": {
+              "arguments": [
+                {
+                  "val": "VirgosolOtomasyon",
+                  "offset": 14
+                }
+              ],
+              "location": "adresDefteri.kisaltmaYazilir(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 2665514300,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Adres defteri İl textboxına İstanbul yazılır",
+            "match": {
+              "arguments": [
+                {
+                  "val": "İl",
+                  "offset": 14
+                },
+                {
+                  "val": "İstanbul",
+                  "offset": 28
+                }
+              ],
+              "location": "adresDefteri.soldakiTextboxaYaz(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 2582572200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Adres defteri İlçe textboxına Maltepe yazılır",
+            "match": {
+              "arguments": [
+                {
+                  "val": "İlçe",
+                  "offset": 14
+                },
+                {
+                  "val": "Maltepe",
+                  "offset": 30
+                }
+              ],
+              "location": "adresDefteri.soldakiTextboxaYaz(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 732298000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Adres olarak Ülke dropdownından Türkiye seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ülke",
+                  "offset": 13
+                },
+                {
+                  "val": "Türkiye",
+                  "offset": 32
+                }
+              ],
+              "location": "adresDefteri.dropdowndanSec(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 786374200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Adres defteri butonlarından Kaydet butonuna tıklanır",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Kaydet",
+                  "offset": 28
+                }
+              ],
+              "location": "adresDefteri.adresDefteriButonlarindanTiklanir(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 611929200,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Filtre alanlarında Kısaltma var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Kısaltma",
+                  "offset": 19
+                }
+              ],
+              "location": "filtreler.filtreVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 1043705800,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Filtrelerden Kısaltma filtresine VirgosolArsivVKN textini yaz",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Kısaltma",
+                  "offset": 13
+                },
+                {
+                  "val": "VirgosolArsivVKN",
+                  "offset": 33
+                }
+              ],
+              "location": "filtreler.filtreTexboxinaYaz(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 668300200,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Filtre butonlarından Listele seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Listele",
+                  "offset": 21
+                }
+              ],
+              "location": "filtreler.filtreButonSec(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 690091200,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Tabloda veri var mı kontrol edilir",
+            "match": {
+              "location": "tablo.tablodaVeriVarMi()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 2383554400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Kullanıcı işlemlerinden Çıkış seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Çıkış",
+                  "offset": 24
+                }
+              ],
+              "location": "kullaniciIslemleri.kullaniciIslemi(String)"
+            },
+            "keyword": "* "
+          }
+        ]
+      }
+    ],
+    "name": "VKN Ile e-Arsiv Adresi Olusturma",
+    "description": "",
+    "id": "vkn-ile-e-arsiv-adresi-olusturma",
+    "keyword": "Feature",
+    "uri": "C:/otomasyonprojeler/EES/Include/features/Ayarlar/Araclar/Adres Defteri/Adres Defteri Olusturma/e-Arsiv Adresi VKN.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 14,
+        "name": "e-Arsiv Rapor Yukleme Buton Kontrolu",
+        "description": "",
+        "id": "e-arsiv-rapor-yukleme-buton-kontrolu;e-arsiv-rapor-yukleme-buton-kontrolu;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 7744120900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Giriş yapılır",
+            "match": {
+              "location": "girisSayfasi.login()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 332524800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Ana menüden e-Saklama seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "e-Saklama",
+                  "offset": 12
+                }
+              ],
+              "location": "menu.anaMenuSecimi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 806783500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Alt menü e-Arşiv başlığı altındaki Rapor Yükleme seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "e-Arşiv",
+                  "offset": 9
+                },
+                {
+                  "val": "Rapor Yükleme",
+                  "offset": 35
+                }
+              ],
+              "location": "menu.basligaGoreAltMenuSecimi(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 130407700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Butonlardan Yükle var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Yükle",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 137827300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Butonlardan Sil var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Sil",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 728891800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Kullanıcı işlemlerinden Çıkış seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Çıkış",
+                  "offset": 24
+                }
+              ],
+              "location": "kullaniciIslemleri.kullaniciIslemi(String)"
+            },
+            "keyword": "* "
+          }
+        ]
+      }
+    ],
+    "name": "e-Arsiv Rapor Yukleme Buton Kontrolu",
+    "description": "",
+    "id": "e-arsiv-rapor-yukleme-buton-kontrolu",
+    "keyword": "Feature",
+    "uri": "C:/otomasyonprojeler/EES/Include/features/e-Saklama/e-Arsiv/Rapor Yukleme/Buton Kontrolu.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 25,
+        "name": "Gelen Zarflar Buton Kontrolu",
+        "description": "",
+        "id": "gelen-zarflar-buton-kontrolu;gelen-zarflar-buton-kontrolu;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8037770100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Giriş yapılır",
+            "match": {
+              "location": "girisSayfasi.login()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 298419400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Ana menüden Zarflar seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Zarflar",
+                  "offset": 12
+                }
+              ],
+              "location": "menu.anaMenuSecimi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 931364000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Alt menüden Gelen Zarflar seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Gelen Zarflar",
+                  "offset": 12
+                }
+              ],
+              "location": "menu.altMenuSecimi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 133950100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Butonlardan Excel var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Excel",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 136893800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Butonlardan Toplu İndirme var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Toplu İndirme",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 136597400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Butonlardan İndir var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "İndir",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 162488400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Butonlardan GİB var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "GİB",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 159963400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Butonlardan İzleme Kayıtları var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "İzleme Kayıtları",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 194446500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Butonlardan Excel isimli butona tıklanır",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Excel",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonaTikla(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 146972700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Alt butonlardan Seçilenleri Excel \u0027e Aktar var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Seçilenleri Excel \u0027e Aktar",
+                  "offset": 16
+                }
+              ],
+              "location": "butonlar.altButonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 146172400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Alt butonlardan Tümünü Excel \u0027e Aktar var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Tümünü Excel \u0027e Aktar",
+                  "offset": 16
+                }
+              ],
+              "location": "butonlar.altButonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 197779600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Butonlardan Toplu İndirme isimli butona tıklanır",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Toplu İndirme",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonaTikla(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 140912800,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Alt butonlardan UBL Seçilenleri İndir var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "UBL Seçilenleri İndir",
+                  "offset": 16
+                }
+              ],
+              "location": "butonlar.altButonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 142056700,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Alt butonlardan UBL Tümünü İndir var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "UBL Tümünü İndir",
+                  "offset": 16
+                }
+              ],
+              "location": "butonlar.altButonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 188804100,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "Butonlardan İndir isimli butona tıklanır",
+            "match": {
+              "arguments": [
+                {
+                  "val": "İndir",
+                  "offset": 12
+                }
+              ],
+              "location": "butonlar.butonaTikla(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 135059300,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Alt butonlardan İndir var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "İndir",
+                  "offset": 16
+                }
+              ],
+              "location": "butonlar.altButonVarMi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 753062200,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Kullanıcı işlemlerinden Çıkış seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Çıkış",
+                  "offset": 24
+                }
+              ],
+              "location": "kullaniciIslemleri.kullaniciIslemi(String)"
+            },
+            "keyword": "* "
+          }
+        ]
+      }
+    ],
+    "name": "Gelen Zarflar Buton Kontrolu",
+    "description": "",
+    "id": "gelen-zarflar-buton-kontrolu",
+    "keyword": "Feature",
+    "uri": "C:/otomasyonprojeler/EES/Include/features/Zarflar/Gelen Zarflar/Buton Kontrolu.feature",
+    "tags": []
+  }
+]

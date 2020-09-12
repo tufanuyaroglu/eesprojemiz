@@ -1,0 +1,177 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 16,
+        "name": "e-Serbest Meslek Makbuzu Hazir Tasarim Araci On Deger Ata",
+        "description": "",
+        "id": "e-serbest-meslek-makbuzu-hazir-tasarim-araci-on-deger-ata;e-serbest-meslek-makbuzu-hazir-tasarim-araci-on-deger-ata;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8257057700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Giriş yapılır",
+            "match": {
+              "location": "girisSayfasi.login()"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 538381200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Ana menüden Ayarlar seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ayarlar",
+                  "offset": 12
+                }
+              ],
+              "location": "menu.anaMenuSecimi(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 1231459800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Alt menü Görsel Tasarımlar başlığı altındaki Hazır Tasarım Aracı seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Görsel Tasarımlar",
+                  "offset": 9
+                },
+                {
+                  "val": "Hazır Tasarım Aracı",
+                  "offset": 45
+                }
+              ],
+              "location": "menu.basligaGoreAltMenuSecimi(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 407456000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Sekmelerden e-Serbest Meslek Makbuzu seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "e-Serbest Meslek Makbuzu",
+                  "offset": 12
+                }
+              ],
+              "location": "yetkiYonetimi.sekmeSecilir(String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 393889100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "e-Serbest Meslek Makbuz Öndeğer Şablon Tasarım adlı şablonun Tasarımı İndir adlı butonu var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "e-Serbest Meslek Makbuz Öndeğer Şablon Tasarım",
+                  "offset": 0
+                },
+                {
+                  "val": "Tasarımı İndir",
+                  "offset": 61
+                }
+              ],
+              "location": "gorselTasarimlar.sablonButonuVarMi(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 340714600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "e-Serbest Meslek Makbuz Öndeğer Şablon Tasarım adlı şablonun Önizleme adlı butonu var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "e-Serbest Meslek Makbuz Öndeğer Şablon Tasarım",
+                  "offset": 0
+                },
+                {
+                  "val": "Önizleme",
+                  "offset": 61
+                }
+              ],
+              "location": "gorselTasarimlar.sablonButonuVarMi(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 310386800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "e-Serbest Meslek Makbuz Öndeğer Şablon Tasarım adlı şablonun Ön Değer Ata adlı butonu var mı",
+            "match": {
+              "arguments": [
+                {
+                  "val": "e-Serbest Meslek Makbuz Öndeğer Şablon Tasarım",
+                  "offset": 0
+                },
+                {
+                  "val": "Ön Değer Ata",
+                  "offset": 61
+                }
+              ],
+              "location": "gorselTasarimlar.sablonButonuVarMi(String,String)"
+            },
+            "keyword": "* "
+          },
+          {
+            "result": {
+              "duration": 837350200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Kullanıcı işlemlerinden Çıkış seçilir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Çıkış",
+                  "offset": 24
+                }
+              ],
+              "location": "kullaniciIslemleri.kullaniciIslemi(String)"
+            },
+            "keyword": "* "
+          }
+        ]
+      }
+    ],
+    "name": "e-Serbest Meslek Makbuzu Hazir Tasarim Araci On Deger Ata",
+    "description": "",
+    "id": "e-serbest-meslek-makbuzu-hazir-tasarim-araci-on-deger-ata",
+    "keyword": "Feature",
+    "uri": "C:/otomasyonprojeler/EES/Include/features/Ayarlar/Gorsel Tasarimlar/Hazir Tasarim Araci/e-Serbest Meslek Makbuzu/Buton Kontrolu.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="13.340999">
+<testcase classname="Gelen Kutusu Irsaliye Yanitlari Buton Kontrolu" name="Gelen Kutusu Irsaliye Yanitlari Buton Kontrolu" time="13.340999">
+<system-out><![CDATA[* Giriş yapılır.............................................................passed
+* Ana menüden e-İrsaliye seçilir............................................passed
+* Alt menü Gelen Kutusu başlığı altındaki İrsaliye Yanıtları seçilir........passed
+* Butonlardan Excel var mı..................................................passed
+* Butonlardan Toplu İndirme var mı..........................................passed
+* Butonlardan UBL var mı....................................................passed
+* Butonlardan İzleme Kayıtları var mı.......................................passed
+* Butonlardan Departman Ata var mı..........................................passed
+* Butonlardan Departman Geri Al var mı......................................passed
+* Butonlardan Excel isimli butona tıklanır..................................passed
+* Alt butonlardan Excel'e Aktar var mı......................................passed
+* Alt butonlardan Tümünü Excel'e Aktar var mı...............................passed
+* Butonlardan Toplu İndirme isimli butona tıklanır..........................passed
+* Alt butonlardan UBL Seçilenleri İndir var mı..............................passed
+* Alt butonlardan UBL Tümünü İndir var mı...................................passed
+* Butonlardan UBL isimli butona tıklanır....................................passed
+* Alt butonlardan Göster var mı.............................................passed
+* Alt butonlardan İndir var mı..............................................passed
+* Kullanıcı işlemlerinden Çıkış seçilir.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>

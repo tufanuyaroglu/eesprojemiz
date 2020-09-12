@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="10.020559">
+<testcase classname="e-Arsiv Fatura Yukle Buton Kontrolu" name="e-Arsiv Fatura Yukle Buton Kontrolu" time="10.020559">
+<system-out><![CDATA[* Giriş yapılır.............................................................passed
+* Ana menüden e-Saklama seçilir.............................................passed
+* Alt menü e-Arşiv başlığı altındaki Fatura Yükleme seçilir.................passed
+* Butonlardan Yükle var mı..................................................passed
+* Butonlardan Sil var mı....................................................passed
+* Kullanıcı işlemlerinden Çıkış seçilir.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
