@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
-   <description></description>
+   <description>Modül olarak ayrılan test suite'leri içerir</description>
    <name>AllSuite_Coll_Filtered</name>
    <tag></tag>
    <executionMode>SEQUENTIAL</executionMode>
