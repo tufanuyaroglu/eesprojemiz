@@ -12,8 +12,8 @@ Feature: Irsaliyenin excele aktarilmasi
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Excel'e Aktar butonuna tıklanır
     * Ön eki İrsaliyeler olan dosya indirildi mi
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	| filtreDegeri2	| veri_Adi 	|
-      | 01.01.2020		| 31.01.2020		| ABC A.Ş 	|
+      | filtreDegeri | filtreDegeri2 | veri_Adi |
+      | 01.01.2020   | 31.01.2020    | TEKSAN   |

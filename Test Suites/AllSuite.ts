@@ -1359,7 +1359,7 @@
       <guid>799b3f17-f210-4ee7-98b4-940fc87005d8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>62168893-b648-450d-a280-41454c7e797a</guid>
@@ -1431,7 +1431,7 @@
       <guid>e590fe85-6859-4bfb-a040-6b1f4ab59fa3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliyeler/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>a953eaab-7af9-4151-944b-e30a3c2c0600</guid>

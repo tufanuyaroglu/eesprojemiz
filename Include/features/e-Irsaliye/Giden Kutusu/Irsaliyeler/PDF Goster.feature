@@ -18,4 +18,4 @@ Feature: Irsaliyenin PDFinin gosterilmesi
 
     Examples: 
       | filtreDegeri | filtreDegeri2 | veri_Adi |
-      | 01.01.2020   | 31.01.2020    | ABC A.Ş  |
+      | 01.01.2020   | 31.01.2020    | TEKSAN   |

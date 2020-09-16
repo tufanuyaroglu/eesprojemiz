@@ -12,8 +12,8 @@ Feature: e-Irsaliye Giden Kutusu Uygulama Yanıtları Toplu Indirme - UBL Tumunu
     * Butonlardan Toplu İndirme isimli butona tıklanır
     * Alt butonlardan UBL Tümünü İndir butonuna tıklanır
     * Ön eki ReceiptAdvice olan dosya indirildi mi
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	| filtreDegeri2	| veri_Adi 	               |
-      | 01.04.2020		| 30.04.2020		| Logo Elektronik GIB Test |
+      | filtreDegeri | filtreDegeri2 | veri_Adi   |
+      | 01.01.2018   | 31.12.2018    | E-irsaliye |

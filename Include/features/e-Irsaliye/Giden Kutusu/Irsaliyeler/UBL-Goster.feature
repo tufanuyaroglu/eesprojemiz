@@ -12,10 +12,10 @@ Feature: e-Irsaliye Giden Kutusu UBL - Göster
     * Butonlardan UBL isimli butona tıklanır
     * Alt butonlardan Göster butonuna tıklanır
     * Yeni açılan sekmeye geçilir
-		* <tag> tagli ubl geldi mi
+    * <tag> tagli ubl geldi mi
     * Ana sekmeye geçilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	| filtreDegeri2	| veri_Adi | tag		        |
-      | 01.01.2020		| 31.01.2020		| ABC A.Ş  | DespatchAdvice |
+      | filtreDegeri | filtreDegeri2 | veri_Adi | tag            |
+      | 01.01.2020   | 31.01.2020    | TEKSAN   | DespatchAdvice |

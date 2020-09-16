@@ -12,10 +12,8 @@ Feature: e-Irsaliye Giden Kutusu Toplu Indirme - PDF Tumunun indirilmesi
     * Butonlardan Toplu İndirme isimli butona tıklanır
     * Alt butonlardan PDF Tümünü İndir butonuna tıklanır
     * Ön eki Invoice olan dosya indirildi mi
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	| filtreDegeri2	| veri_Adi |
-      | 01.01.2020		| 31.01.2020		| ABC A.Ş  |
-            
- 
+      | filtreDegeri | filtreDegeri2 | veri_Adi |
+      | 01.01.2020   | 31.01.2020    | TEKSAN   |

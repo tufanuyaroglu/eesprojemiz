@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Gecmis</name>
+   <name>Izleme Kayitlari</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>ce5326dc-b232-44ef-921f-7637e893919c</testCaseGuid>

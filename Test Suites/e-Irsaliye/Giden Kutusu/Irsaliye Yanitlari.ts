@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>805fdf13-6d92-40ac-bdb6-99125874ac3c</testSuiteGuid>
    <testCaseLink>
       <guid>f1868307-fb71-423d-81d8-fbab0d1b7256</guid>
@@ -68,7 +69,7 @@
       <guid>ac96de96-b009-4e0b-a729-1323a281493e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Irsaliye/Giden Kutusu/Irsaliye Yanitlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>e5b93d63-80dc-4493-9546-f9f3476f6f74</guid>
