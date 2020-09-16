@@ -12,10 +12,10 @@ Feature: e-Fatura Giden Kutusu Uygulama Yanıtlari UBL - Goster
     * Butonlardan UBL isimli butona tıklanır
     * Alt butonlardan Göster butonuna tıklanır
     * Yeni açılan sekmeye geçilir
-		* <tag> tagli ubl geldi mi
+    * <tag> tagli ubl geldi mi
     * Ana sekmeye geçilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	| filtreDegeri2	| veri_Adi 	  | tag						 				|
-      | 01.04.2020		| 30.04.2020		| 6090408038	| ApplicationResponse   |
+      | filtreDegeri | filtreDegeri2 | veri_Adi   | tag                 |
+      | 01.09.2020   | 16.09.2020    | 6090408038 | ApplicationResponse |

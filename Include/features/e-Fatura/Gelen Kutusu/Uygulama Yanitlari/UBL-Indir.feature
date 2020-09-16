@@ -12,8 +12,8 @@ Feature: e-Fatura Gelen Kutusu Uygulama Yanıtlari UBL - Indir
     * Butonlardan UBL isimli butona tıklanır
     * Alt butonlardan İndir butonuna tıklanır
     * Ön eki ApplicationResponse olan dosya indirildi mi
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	| filtreDegeri2	| veri_Adi 	  | tag						 				|
-      | 01.04.2020		| 30.04.2020		| 6090408038	| ApplicationResponse   |
+      | filtreDegeri | filtreDegeri2 | veri_Adi   | tag                 |
+      | 01.01.2019   | 31.12.2019    | 5555551292 | ApplicationResponse |

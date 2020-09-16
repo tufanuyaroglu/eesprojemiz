@@ -7,7 +7,7 @@ Feature: Gelen Kutusu Uygulama Yanitlari Buton Kontrolu
     * Butonlardan Excel var mı
     * Butonlardan UBL var mı
     * Butonlardan Fatura var mı
-    * Butonlardan Geçmiş var mı
+    * Butonlardan İzleme Kayıtları var mı
     * Butonlardan Departman Ata var mı
     * Butonlardan Departman Geri Al var mı
     * Butonlardan Excel isimli butona tıklanır

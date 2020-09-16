@@ -13,8 +13,8 @@ Feature: e-Irsaliye Degistir
     * Notlar alanına <not> girilir
     * Kaydet butonu seçilir
     * Tabloda <unvan> ünvanlı veri oluşturuldu mu
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	    | veri_Adi 		      | not 									 | unvan 				      |
-      | VirgosolOtomasyon | VirgosolOtomasyon | Otomasyon Not Degistir | VirgosolOtomasyon	|
+      | filtreDegeri      | veri_Adi          | not                    | unvan             |
+      | VirgosolOtomasyon | VirgosolOtomasyon | Otomasyon Not Degistir | VirgosolOtomasyon |

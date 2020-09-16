@@ -16,4 +16,4 @@ Feature: Uygulama Yanitinin Excele aktarilmasi
     
     Examples: 
       | filtreDegeri	| filtreDegeri2	| veri_Adi 	  |
-      | 01.04.2020		| 30.04.2020		| 6090408038	|
+      | 01.09.2020		| 16.09.2020		| 6090408038	|

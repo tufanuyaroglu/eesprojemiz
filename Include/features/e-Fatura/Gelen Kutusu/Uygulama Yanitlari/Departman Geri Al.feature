@@ -11,13 +11,13 @@ Feature: Uygulama Yaniti departmanini geri al
     * Tablodan <veri_Adi> isimli veri seçilir
     * Butonlardan Departman Geri Al isimli butona tıklanır
     * Yeni açılan sekmeye geçilir
-		* <departman> isimli departman checkboxı seçilir
-		* Departman kaydedilir
+    * <departman> isimli departman checkboxı seçilir
+    * Departman kaydedilir
     * Popup mesajı Seçilen belgelerin ilgili departmanlardaki yetkisi kaldırılmıştır içeriyor mu
     * Yönetim popupında Tamam seçilir
     * Ana sekmeye geçilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	| filtreDegeri2	| veri_Adi 	  |	departman			    |
-      | 01.04.2020		| 30.04.2020		| 6090408038	| VirgosolDepartman	|
+      | filtreDegeri | filtreDegeri2 | veri_Adi   | departman |
+      | 01.01.2019   | 31.12.2019    | 5555551292 | Muhasebe  |

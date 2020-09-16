@@ -69,7 +69,7 @@
       <guid>917ae7da-04eb-4688-850a-61edf45354fe</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Uygulama Yanitlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Uygulama Yanitlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>4086e0e8-b9ef-4d7d-a58a-135322995301</guid>

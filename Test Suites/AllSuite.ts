@@ -729,7 +729,7 @@
       <guid>5cf42bdc-0218-40af-a74e-87d062a6c58d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Faturalar/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Faturalar/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>c2ecb772-bb70-4739-8611-0d09b04c9aab</guid>
@@ -849,7 +849,7 @@
       <guid>9adbda88-d2d9-4373-bcc9-f83d9acc0802</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Uygulama Yanitlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Uygulama Yanitlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>8efb395d-b73b-49de-a9b5-074173749fc6</guid>
@@ -921,7 +921,7 @@
       <guid>b5a5b18d-a3c6-464b-8bb4-88ae276ce737</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>5595532b-bcca-40d2-91fb-9dd57fd3ea5b</guid>
@@ -1041,7 +1041,7 @@
       <guid>fc017559-91f6-4cc6-ab9c-00201e6b000a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Uygulama Yanitlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Uygulama Yanitlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>642a3fb0-5425-4bde-9721-bd748f7d86ab</guid>

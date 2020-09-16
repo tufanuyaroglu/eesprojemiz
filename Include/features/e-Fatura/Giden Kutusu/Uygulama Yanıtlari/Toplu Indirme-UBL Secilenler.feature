@@ -12,8 +12,8 @@ Feature: e-Fatura Giden Kutusu Uygulama Yanıtları Toplu Indirme - UBL Secilenl
     * Butonlardan Toplu İndirme isimli butona tıklanır
     * Alt butonlardan UBL Seçilenleri İndir butonuna tıklanır
     * Ön eki ApplicationResponse olan dosya indirildi mi
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	| filtreDegeri2	| veri_Adi 	 |
-      | 01.04.2020		| 30.04.2020		| 6090408038 |
+      | filtreDegeri | filtreDegeri2 | veri_Adi   |
+      | 01.09.2020   | 16.09.2020    | 6090408038 |

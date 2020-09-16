@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>cb8afef7-ce79-45d2-b540-37394d7e54bc</testSuiteGuid>
    <testCaseLink>
       <guid>9ce0b1b9-8045-4caa-8672-d10749b01b0d</guid>
@@ -140,7 +141,7 @@
       <guid>eea2d4b4-5c8b-46b9-a427-cb3aeac703f4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Faturalar/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Faturalar/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>a552fbe4-18ba-4859-b2a3-e003f5c635d0</guid>
@@ -296,7 +297,7 @@
       <guid>63e37ed3-0a46-448e-ac19-afa791d677bb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Uygulama Yanitlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Fatura/Gelen Kutusu/Uygulama Yanitlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>12a86a77-8748-4083-99e2-f9205433e9d3</guid>
@@ -332,7 +333,7 @@
       <guid>a37d58c2-f363-4821-9f0f-294af1381318</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Faturalar/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>605da8af-b9e5-4f5f-a59b-db9d431d32ec</guid>
@@ -458,7 +459,7 @@
       <guid>0f5cbc8e-70c1-490d-8f42-231518a2fc85</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Uygulama Yanitlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Fatura/Giden Kutusu/Uygulama Yanitlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>87b3a0c8-6e4f-4b82-b0b6-37346a4418c6</guid>

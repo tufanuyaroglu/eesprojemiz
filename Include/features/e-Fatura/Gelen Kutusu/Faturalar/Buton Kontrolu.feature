@@ -12,7 +12,7 @@ Feature: Gelen Kutusu Faturalar Buton Kontrolu
     * Butonlardan Sertifika var mı
     * Butonlardan Yazdır var mı
     * Butonlardan Yanıt Gönder var mı
-    * Butonlardan Geçmiş var mı
+    * Butonlardan İzleme Kayıtları var mı
     * Butonlardan İptal Et var mı
     * Butonlardan Departman Ata var mı
     * Butonlardan Departman Geri Al var mı
@@ -33,8 +33,7 @@ Feature: Gelen Kutusu Faturalar Buton Kontrolu
     * Alt butonlardan İndir var mı
     * Butonlardan Statü Ata isimli butona tıklanır
     * Alt butonlardan Öndeğer var mı
-    * Alt butonlardan CCC var mı
-    * Alt butonlardan ZXC var mı
+    * Alt butonlardan pahabicilemez var mı
 		* Kullanıcı işlemlerinden Çıkış seçilir
     
     

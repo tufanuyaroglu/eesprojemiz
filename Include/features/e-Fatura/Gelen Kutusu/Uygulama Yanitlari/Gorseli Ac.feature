@@ -12,8 +12,8 @@ Feature: Uygulama Yanitinin Gorseli
     * Yeni açılan sekmeye geçilir
     * Yeni sekme başlığında UYGULAMA YANITI var mı kontrol edilir
     * Ana sekmeye geçilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	| filtreDegeri2	| veri_Adi 	 |
-      | 01.04.2020		| 30.04.2020		| 6090408038 |
+      | filtreDegeri | filtreDegeri2 | veri_Adi   |
+      | 01.01.2019   | 31.12.2019    | 5555551292 |

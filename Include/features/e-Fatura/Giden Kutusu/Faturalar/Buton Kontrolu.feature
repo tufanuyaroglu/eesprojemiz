@@ -12,7 +12,7 @@ Feature: Giden Kutusu Faturalar Buton Kontrolu
     * Butonlardan Sertifika var mı
     * Butonlardan Yazdır var mı
     * Butonlardan Sil var mı
-    * Butonlardan Geçmiş var mı
+    * Butonlardan İzleme Kayıtları var mı
     * Butonlardan İptal Et var mı
     * Butonlardan TaxFree İptal var mı
     * Butonlardan Departman Ata var mı
