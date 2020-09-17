@@ -12,8 +12,8 @@ Feature: e-Serbest Meslek Makbuzlari Goruntule
     * Yeni açılan sekmeye geçilir
     * Yeni sekme başlığında e-Serbest Meslek Makbuzu var mı kontrol edilir
     * Ana sekmeye geçilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	| filtreDegeri2	| veri_Adi |
-      | 01.04.2020		| 30.04.2020		| wwww     |
+      | filtreDegeri | filtreDegeri2 | veri_Adi      |
+      | 01.01.2020   | 31.08.2020    | Atahan Adanır |

@@ -14,8 +14,8 @@ Feature: e-Serbest Meslek Makbuzlari Iptal Et
     * Yönetim popupında Onayla seçilir
     * Popup mesajı belge iptal edilmiştir içeriyor mu
     * Yönetim popupında Tamam seçilir
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | filtreDegeri	| filtreDegeri2	| veri_Adi 	|
-      | 01.04.2020		| 30.04.2020		| wwww    	|
+      | filtreDegeri | filtreDegeri2 | veri_Adi      |
+      | 01.01.2020   | 31.08.2020    | Atahan Adanır |
