@@ -11,7 +11,7 @@ Feature: e-Mustahsil Makbuzlari Buton Kontrolu
     * Butonlardan PDF var mı
     * Butonlardan İptal Et var mı
     * Butonlardan İptal Geri Al var mı
-    * Butonlardan Geçmiş var mı
+    * Butonlardan İzleme Kayıtları var mı
     * Butonlardan Departman Ata var mı
     * Butonlardan Departman Geri Al var mı
     * Butonlardan Statü Ata var mı

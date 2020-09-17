@@ -7,7 +7,7 @@ Feature: e-Arsiv Raporlari Buton Kontrolu
     * Butonlardan Excel var mı
     * Butonlardan XML var mı
     * Butonlardan Rapor var mı
-    * Butonlardan Geçmiş var mı
+    * Butonlardan İzleme Kayıtları var mı
     * Butonlardan GİB'e Gönder var mı
     * Butonlardan Yeniden Oluştur var mı
     * Butonlardan Mutabakat var mı

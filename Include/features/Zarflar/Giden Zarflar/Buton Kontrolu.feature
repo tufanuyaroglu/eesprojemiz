@@ -8,7 +8,7 @@ Feature: Giden Zarflar Buton Kontrolu
     * Butonlardan Toplu İndirme var mı
     * Butonlardan İndir var mı
     * Butonlardan GİB var mı
-    * Butonlardan Geçmiş var mı
+    * Butonlardan İzleme Kayıtları var mı
     * Butonlardan Excel isimli butona tıklanır
     * Alt butonlardan Seçilenleri Excel 'e Aktar var mı
     * Alt butonlardan Tümünü Excel 'e Aktar var mı

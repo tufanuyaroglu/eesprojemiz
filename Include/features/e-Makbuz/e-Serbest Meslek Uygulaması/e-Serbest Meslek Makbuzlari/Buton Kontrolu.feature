@@ -11,7 +11,7 @@ Feature: e-Serbest Meslek Makbuzlari Buton Kontrolu
     * Butonlardan PDF var mı
     * Butonlardan İptal Et var mı
     * Butonlardan İptal Geri Al var mı
-    * Butonlardan Geçmiş var mı
+    * Butonlardan İzleme Kayıtları var mı
     * Butonlardan Statü Ata var mı
     * Butonlardan Excel isimli butona tıklanır 
     * Alt butonlardan Excel 'e Aktar var mı
