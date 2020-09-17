@@ -6,7 +6,7 @@ Feature: e-Fatura Olusturma Buton Kontrolu
     * Alt menü e-Fatura Araçları başlığı altındaki e-Fatura Oluşturma seçilir
     * Butonlardan Ekle var mı
     * Butonlardan Numara Oluştur var mı
-    * Butonlardan Onayla var mı
+    * Butonlardan Gönder var mı
     * Butonlardan Değiştir var mı
     * Butonlardan Göster var mı
     * Butonlardan UBL var mı

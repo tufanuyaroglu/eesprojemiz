@@ -4,7 +4,7 @@ Feature: e-Fatura Taslak Buton Kontrolu
     * Giriş yapılır
     * Ana menüden e-Fatura seçilir
     * Alt menü e-Fatura Araçları başlığı altındaki e-Fatura Taslak seçilir
-    * Butonlardan Onayla var mı
+    * Butonlardan Gönder var mı
     * Butonlardan İptal Et var mı
     * Butonlardan Değiştir var mı
     * Butonlardan Göster var mı

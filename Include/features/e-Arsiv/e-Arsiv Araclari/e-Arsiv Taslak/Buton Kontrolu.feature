@@ -4,7 +4,7 @@ Feature: e-Arsiv Taslak Buton Kontrolu
     * Giriş yapılır
     * Ana menüden e-Arşiv seçilir
     * Alt menü e-Arşiv Araçları başlığı altındaki e-Arşiv Taslak seçilir
-    * Butonlardan Onayla var mı
+    * Butonlardan Gönder var mı
     * Butonlardan İptal Et var mı
     * Butonlardan Değiştir var mı
     * Butonlardan Göster var mı
