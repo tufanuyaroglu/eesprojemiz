@@ -555,7 +555,7 @@
       <guid>a18bb982-6fac-43dc-804f-1d8a980f95f5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Arsiv/e-Arsiv Hareketleri/e-Arsiv Raporlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Arsiv/e-Arsiv Hareketleri/e-Arsiv Raporlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>15d90451-2953-491b-91ae-d1a07887e92e</guid>
@@ -1539,7 +1539,7 @@
       <guid>ebd435bb-c979-4492-858a-7820fd1698b1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>0f074f0a-c867-46b3-b103-693ccc87c00d</guid>
@@ -1677,7 +1677,7 @@
       <guid>d754e899-7180-480c-8ea8-06abd7da6bf6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Raporlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Raporlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>670b96b5-11b5-4575-b6e8-d63f617b6151</guid>
@@ -1719,7 +1719,7 @@
       <guid>6ad15266-8dbe-46fa-ad87-c1cab1696a38</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuz Raporlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuz Raporlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>9c2a02e0-46de-43d0-af0f-18d7ae7b0576</guid>
@@ -1761,7 +1761,7 @@
       <guid>62271c0e-fe26-4b9d-9032-684186c4199e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>3ebd1cdd-db5a-49b4-9ad6-1fcd6c168d19</guid>
@@ -2001,7 +2001,7 @@
       <guid>6ab0c61a-6cc5-4528-9566-d14860f74b3e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/OKC Islemleri/OKC Mali Raporlar/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/OKC Islemleri/OKC Mali Raporlar/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>f5f78539-8885-4f6f-ad6c-b032d703864f</guid>
@@ -2277,7 +2277,7 @@
       <guid>abb6f45f-9d93-4979-b72b-4efe981d62d2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Gelen Zarflar/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>9eca2849-94dd-4b0c-baaa-132ce96e80bf</guid>
@@ -2337,7 +2337,7 @@
       <guid>5c87a94d-13cd-4e6b-8af7-4f5cec6ce020</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>d790a570-3976-4cf5-9be6-a9d78927b542</guid>

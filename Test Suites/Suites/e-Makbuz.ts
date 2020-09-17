@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>0932b885-76e6-41f5-b7f8-929afbb22954</testSuiteGuid>
    <testCaseLink>
       <guid>c5f5c8f2-08d3-40eb-ba05-1460bac303d5</guid>
@@ -38,7 +39,7 @@
       <guid>f28a7c7d-6464-46c5-82bb-1a66dc49a147</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>56d2595f-3012-448b-a2a7-fd59d2501b6e</guid>
@@ -122,7 +123,7 @@
       <guid>2fbecd95-9f1c-41be-af27-f756d3b01dd4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Raporlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Raporlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>f85232f8-8afe-4a9e-bc40-26a6bd7bcb25</guid>
@@ -218,7 +219,7 @@
       <guid>aa6d32bf-be78-401f-acd5-72e81c385c69</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuzlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>78f1c1c3-a495-4f9b-95d8-a5d5551f5e7c</guid>
@@ -302,7 +303,7 @@
       <guid>c061013d-f75c-4320-a51c-9650134b3f1d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuz Raporlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Serbest Meslek Uygulamasi/e-Serbest Meslek Makbuz Raporlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>9960531a-d53b-45df-8a28-94c7d87f262a</guid>

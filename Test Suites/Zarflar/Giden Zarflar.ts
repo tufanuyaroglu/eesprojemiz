@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>348c0a98-cf99-44d5-907c-60bbfe72b037</testSuiteGuid>
    <testCaseLink>
       <guid>b2df33b9-a385-466b-88af-5a910269ae81</guid>
@@ -62,7 +63,7 @@
       <guid>83cfb818-b044-4586-ac13-8ccc7c6ce3d9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/Zarflar/Giden Zarflar/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>3fdb87c5-a63a-477c-8993-2583561529bd</guid>

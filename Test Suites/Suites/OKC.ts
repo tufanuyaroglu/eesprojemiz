@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>45fe8c07-2a5f-4fab-a9cc-51691f792751</testSuiteGuid>
    <testCaseLink>
       <guid>0219bd3e-e303-4501-83fa-f1ff0d147ada</guid>
@@ -32,7 +33,7 @@
       <guid>acc997a5-cbb4-429a-93d0-192778c04870</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/OKC Islemleri/OKC Mali Raporlar/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/OKC Islemleri/OKC Mali Raporlar/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>f9ab0603-f1c1-4548-a918-80cd257bd3fb</guid>

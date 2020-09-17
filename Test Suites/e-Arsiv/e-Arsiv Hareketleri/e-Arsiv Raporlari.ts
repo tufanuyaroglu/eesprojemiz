@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>1cd0088f-f38b-4932-bd0d-bb372d0cd7c1</testSuiteGuid>
    <testCaseLink>
       <guid>cb585c60-fac1-41ba-8169-d3d6ee702c4e</guid>
@@ -56,7 +57,7 @@
       <guid>28d3650a-0458-4cc2-838b-890318e1b2e4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Arsiv/e-Arsiv Hareketleri/e-Arsiv Raporlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Arsiv/e-Arsiv Hareketleri/e-Arsiv Raporlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>a5402bbe-8d71-4d93-b616-b83ab796d9ce</guid>

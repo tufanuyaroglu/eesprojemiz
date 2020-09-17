@@ -9,6 +9,7 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>4fdc4707-c572-4571-9246-9ef188f461e6</testSuiteGuid>
    <testCaseLink>
       <guid>af9c88eb-b0aa-44a2-9b18-6edcf22d832a</guid>
@@ -50,6 +51,6 @@
       <guid>68ec314f-9ecc-4ffc-a64d-3192c32f4a98</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Raporlari/Gecmis</testCaseId>
+      <testCaseId>Test Cases/Case Repository/e-Makbuz/e-Mustahsil Uygulamasi/e-Mustahsil Makbuzu Raporlari/Izleme Kayitlari</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
