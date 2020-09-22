@@ -6,7 +6,7 @@ Feature: e-Arsiv Fatura Sil
     * Alt menü e-Arşiv başlığı altındaki Fatura Yükleme seçilir
     * Tablodan <veri_Adi> isimli veri seçilir
     * Butonlardan Sil isimli butona tıklanır
-    * Popup mesajı Seçili e-Defter dosyaları silinecektir içeriyor mu
+    * Popup mesajı Dosyalar ve dosyaların içerisindeki tüm faturalar silinecektir içeriyor mu
     * Yönetim popupında İptal seçilir
 		* Kullanıcı işlemlerinden Çıkış seçilir
     

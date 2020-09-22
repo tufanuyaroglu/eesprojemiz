@@ -12,8 +12,8 @@ Feature: e-Serbest Meslek Makbuzu Degistir
     * Notlar alanına <not> girilir
     * Kaydet butonu seçilir
     * Tabloda <unvan> ünvanlı veri oluşturuldu mu
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      | veri_Adi 		      | not 									 | unvan 				     |
+      | veri_Adi          | not                    | unvan             |
       | VirgosolOtomasyon | Otomasyon Not Degistir | VirgosolOtomasyon |
