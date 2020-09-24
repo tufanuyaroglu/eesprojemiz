@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Alici_Adi</name>
+   <name>AliciBilgisiBaslik</name>
    <tag></tag>
-   <elementGuidId>c602d3b1-fdf2-48ff-9d37-a295b62a7a6d</elementGuidId>
+   <elementGuidId>06556f7c-00d1-4b32-a980-98c0f83bc51b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>#GridViewCustomer_DXMainTable>tbody>tr.dxgvDataRow_LECustomTheme>td:nth-child(2)</value>
+         <value>#selectCustomerPopup h4</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>css</name>
       <type>Main</type>
-      <value>#GridViewCustomer_DXMainTable>tbody>tr.dxgvDataRow_LECustomTheme>td:nth-child(2)</value>
+      <value>#selectCustomerPopup h4</value>
    </webElementProperties>
 </WebElementEntity>

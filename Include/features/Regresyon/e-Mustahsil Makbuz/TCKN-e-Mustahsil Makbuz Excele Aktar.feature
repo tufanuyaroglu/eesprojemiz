@@ -22,7 +22,7 @@ Feature: TCKNo ile e-Mustahsil Makbuzu Olusturmasi ve Excele aktarilmasi
     * Popup mesajı oluşmuştur içeriyor mu
     * Yönetim popupında Tamam seçilir
     * Tablodan <adı_soyadı> isimli veri seçilir
-    * Butonlardan Onayla isimli butona tıklanır
+    * Butonlardan Gönder isimli butona tıklanır
     * Popup mesajı Devam etmek istiyor musunuz içeriyor mu
     * Yönetim popupında Onayla seçilir
     * Ana menüden e-Makbuz seçilir
@@ -30,10 +30,6 @@ Feature: TCKNo ile e-Mustahsil Makbuzu Olusturmasi ve Excele aktarilmasi
     * Filtrelerden Müstahsil Ad Soyad filtresine <adı_soyadı> textini yaz
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
-    * Tablodan <adı_soyadı> isimli veri seçilir
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Excel 'e Aktar butonuna tıklanır
-    * Ön eki mustahsilMakbuzlari olan dosya indirildi mi
 		* Kullanıcı işlemlerinden Çıkış seçilir
     
     Examples: 

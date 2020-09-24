@@ -60,7 +60,7 @@ class popup {
 	def popupIceriyorMu(String mesaj) {
 		WebUI.callTestCase(findTestCase("Test Cases/Popup/PopupMesajiIceriyorMu"), ["Mesaj":mesaj] , FailureHandling.STOP_ON_FAILURE)
 	}
-	
+
 	@When("Popup kapatılır")
 	def popupKapatilir() {
 		WebUI.callTestCase(findTestCase("Test Cases/Popup/PopupKapatilir"), [:] , FailureHandling.STOP_ON_FAILURE)

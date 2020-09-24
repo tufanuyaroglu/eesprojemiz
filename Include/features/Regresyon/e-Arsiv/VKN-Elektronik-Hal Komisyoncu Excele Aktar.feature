@@ -1,7 +1,7 @@
 Feature: Gonderim tipi Kagit ve Hal Komisyoncu tipinde e-Arsiv faturasi olusturulmasi
 
   Scenario Outline: Gonderim tipi Kagit ve Hal Komisyoncu tipinde e-Arsiv faturasi olusturulmasi
-  	* Giriş yapılır 
+    * Giriş yapılır
     * Ana menüden e-Arşiv seçilir
     * Alt menü e-Arşiv Araçları başlığı altındaki e-Arşiv Fatura Oluşturma seçilir
     * Butonlardan Ekle isimli butona tıklanır
@@ -11,7 +11,7 @@ Feature: Gonderim tipi Kagit ve Hal Komisyoncu tipinde e-Arsiv faturasi olusturu
     * Tip alanından Hal Komisyoncu seçilir
     * Döküman Para Birimi alanından Türk Lirası seçilir
     * Ön Ek FFF olarak seçilir
-    * Tasarım alanından Mavi Temalı e-Arşiv Öndeğer Şablon Tasarım 2 seçilir
+    * Tasarım alanından Otomasyon Denemesi seçilir
     * Sipariş bilgileri UUC-SAT-1200001 ve 31.04.2020 olarak girilir
     * İrsaliye Bilgileri AAAAAAAAAA,31.04.2020 olarak girilir
     * Ekle butonuna basılır
@@ -22,6 +22,7 @@ Feature: Gonderim tipi Kagit ve Hal Komisyoncu tipinde e-Arsiv faturasi olusturu
     * Ürün ekleme alanında Birim Fiyat başlığına <birimFiyat> girilir
     * Masraf Bilgileri Ekle butonuna basılır
     * Masraf Bilgileri alanında Masraf Türü başlığına Komisyon girilir
+    * Masraf Bilgileri alanında Masraf Oranı % başlığına 10 girilir
     * Notlar alanına <not> girilir
     * Kaydet butonu seçilir
     * Tabloda <unvan> ünvanlı veri oluşturuldu mu
@@ -32,7 +33,7 @@ Feature: Gonderim tipi Kagit ve Hal Komisyoncu tipinde e-Arsiv faturasi olusturu
     * Popup mesajı oluşmuştur içeriyor mu
     * Yönetim popupında Tamam seçilir
     * Tablodan <unvan> isimli veri seçilir
-    * Butonlardan Onayla isimli butona tıklanır
+    * Butonlardan Gönder isimli butona tıklanır
     * Popup mesajı Devam etmek istiyor musunuz içeriyor mu
     * Yönetim popupında Onayla seçilir
     * Ana menüden e-Arşiv seçilir
@@ -40,12 +41,8 @@ Feature: Gonderim tipi Kagit ve Hal Komisyoncu tipinde e-Arsiv faturasi olusturu
     * Filtrelerden Alıcı Ünvanı  filtresine <unvan> textini yaz
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
-    * Tablodan <unvan> isimli veri seçilir
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Excel 'e Aktar butonuna tıklanır
-    * Ön eki eArsivFaturalari olan dosya indirildi mi
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      |	alici_Adi	 				| urun_Adi 	| aciklamasi | miktari | birimFiyat	| not 					 | unvan				     |
-      |	VirgosolArsivVKN  | Otomasyon	| Virgosol   | 400     | 100			 	| Otomasyon Not  | VirgosolOtomasyon |
+      | alici_Adi        | urun_Adi  | aciklamasi | miktari | birimFiyat | not           | unvan                  |
+      | VirgosolArsivVKN | Otomasyon | Virgosol   |     400 |        100 | Otomasyon Not | VirgosolOtomasyon39267 |

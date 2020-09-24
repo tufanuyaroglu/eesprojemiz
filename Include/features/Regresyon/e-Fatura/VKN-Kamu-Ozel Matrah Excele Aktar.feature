@@ -32,7 +32,7 @@ Feature: VKNo ile Kamu senaryosunda ve Ozel Matrah tipinde fatura olusturulmasi 
     * Popup mesajı oluşmuştur içeriyor mu
     * Yönetim popupında Tamam seçilir
     * Tablodan <unvan> isimli veri seçilir
-    * Butonlardan Onayla isimli butona tıklanır
+    * Butonlardan Gönder isimli butona tıklanır
     * Popup mesajı Devam etmek istiyor musunuz içeriyor mu
     * Yönetim popupında Onayla seçilir
     * Ana menüden e-Fatura seçilir
@@ -40,12 +40,8 @@ Feature: VKNo ile Kamu senaryosunda ve Ozel Matrah tipinde fatura olusturulmasi 
     * Filtrelerden Alıcı Ünvan filtresine <unvan> textini yaz
     * Filtre butonlarından Listele seçilir
     * Tabloda veri var mı kontrol edilir
-    * Tablodan <unvan> isimli veri seçilir
-    * Butonlardan Excel isimli butona tıklanır
-    * Alt butonlardan Excel'e Aktar butonuna tıklanır
-    * Ön eki E-Fatura olan dosya indirildi mi
-		* Kullanıcı işlemlerinden Çıkış seçilir
-    
+    * Kullanıcı işlemlerinden Çıkış seçilir
+
     Examples: 
-      |	alici_Adi	 				| urun_Adi 	| aciklamasi | miktari | birimFiyat	| not 					 | unvan				     |
-      |	VirgosolFaturaVKN | Otomasyon	| Virgosol   | 400     | 100			 	| Otomasyon Not  | VirgosolOtomasyon |
+      | alici_Adi         | urun_Adi  | aciklamasi | miktari | birimFiyat | not           | unvan                   |
+      | VirgosolFaturaVKN | Otomasyon | Virgosol   |     400 |        100 | Otomasyon Not | VirgosolOtomasyon600413 |
