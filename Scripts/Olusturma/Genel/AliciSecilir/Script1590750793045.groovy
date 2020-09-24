@@ -28,8 +28,6 @@ WebUI.click(findTestObject('Olusturma/Genel/AliciBilgisi/Tamam_Bosluk'))
 
 WebUI.waitForElementClickable(findTestObject('Olusturma/Genel/AliciBilgisi/Tamam_Butonu'), 10)
 
-WebUI.waitForElementClickable(findTestObject('Olusturma/Genel/AliciBilgisi/Tamam_Butonu'), 10)
-
 WebUI.click(findTestObject('Olusturma/Genel/AliciBilgisi/Tamam_Butonu'))
 
 WebUI.waitForElementPresent(findTestObject('Olusturma/Genel/AliciBilgisi/VKN-TCKN'), 10)
