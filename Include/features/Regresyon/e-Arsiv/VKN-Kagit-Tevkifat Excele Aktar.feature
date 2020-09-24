@@ -20,7 +20,6 @@ Feature: Gonderim tipi Kagit ve Tevkifat tipinde e-Arsiv faturasi olusturulmasi
     * Ürün ekleme alanında Miktarı başlığına <miktari> girilir
     * Ürün ekleme alanında Birim Fiyat başlığına <birimFiyat> girilir
     * Ürün ekleme alanında İskonto Oranı % başlığına 10 girilir
-    * Ürün ekleme alanında KDV TEVKİFAT Oranı % başlığına 12 girilir
     * Ürün ekleme alanında KDV TEVKİFAT Kodu başlığına 604 - YEMEK SERVİS HİZMETİ girilir
     * Notlar alanına <not> girilir
     * Kaydet butonu seçilir

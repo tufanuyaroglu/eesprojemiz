@@ -43,17 +43,17 @@ import cucumber.api.java.en.Then
 import cucumber.api.java.en.When
 
 class adresDefteri {
-	
+
 	@When("Unvan alanına (.*) yazılır")
 	def kisaltmaYazilir(String unvan) {
 		WebUI.callTestCase(findTestCase("Test Cases/Sayfalar/Ayarlar/Adres_Defteri/UnvanGirilir"), ["Unvan":unvan] , FailureHandling.STOP_ON_FAILURE)
 	}
-	
+
 	@When("Adı alanına (.*), Soyadı alanına (.*) yazılır")
 	def adiYazilir(String ad,String soyad) {
 		WebUI.callTestCase(findTestCase("Test Cases/Sayfalar/Ayarlar/Adres_Defteri/AdiGirilir"), ["Ad":ad,"Soyad":soyad] , FailureHandling.STOP_ON_FAILURE)
 	}
-	
+
 	@When("Adres defteri (.*) textboxına (.*) yazılır")
 	def soldakiTextboxaYaz(String alan,String deger) {
 		WebUI.callTestCase(findTestCase("Test Cases/Sayfalar/Ayarlar/Adres_Defteri/AdresDefteriTexboxaYaz"), ["Alan":alan,"Deger":deger] , FailureHandling.STOP_ON_FAILURE)
