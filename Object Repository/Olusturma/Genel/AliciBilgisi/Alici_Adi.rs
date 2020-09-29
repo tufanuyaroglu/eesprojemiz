@@ -4,17 +4,23 @@
    <name>Alici_Adi</name>
    <tag></tag>
    <elementGuidId>db474096-80c5-4371-929f-4659add1ac99</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//tr[@id='GridViewCustomer_DXDataRow0']/td[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>id(&quot;GridViewCustomer_DXDataRow0&quot;)/td[@class=&quot;dxgv&quot;][count(. | //*[(text() = 'VirgosolArsivVKN' or . = 'VirgosolArsivVKN') and @ref_element = 'Object Repository/dene/Page_LOGO e-Fatura/iframe_Alc Bilgisi_customerselectiframe']) = count(//*[(text() = 'VirgosolArsivVKN' or . = 'VirgosolArsivVKN') and @ref_element = 'Object Repository/dene/Page_LOGO e-Fatura/iframe_Alc Bilgisi_customerselectiframe'])]</value>
+         <value>id(&quot;GridViewCustomer_DXDataRow0&quot;)/td[@class=&quot;dxgv&quot;][count(. | //*[(text() = 'VirgosolArsivVKN' or . = 'VirgosolArsivVKN') and @ref_element = 'Object Repository/Olusturma/Genel/AliciBilgisi/Alici_Bilgisi']) = count(//*[(text() = 'VirgosolArsivVKN' or . = 'VirgosolArsivVKN') and @ref_element = 'Object Repository/Olusturma/Genel/AliciBilgisi/Alici_Bilgisi'])]</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -46,6 +52,13 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;GridViewCustomer_DXDataRow0&quot;)/td[@class=&quot;dxgv&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#GridViewCustomer_DXDataRow0</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>

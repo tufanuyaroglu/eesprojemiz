@@ -20,7 +20,7 @@ WebUI.click(findTestObject('Olusturma/Genel/AliciBilgisi/Alici_Bilgisi'))
 
 WebUI.setText(findTestObject('Olusturma/Genel/AliciBilgisi/Alici_Gir'), Alici_Adi)
 
-WebUI.waitForElementClickable(findTestObject('Olusturma/Genel/AliciBilgisi/Alici_Adi'), 10)
+WebUI.click(findTestObject('Olusturma/Genel/AliciBilgisi/Tamam_Bosluk'))
 
 WebUI.click(findTestObject('Olusturma/Genel/AliciBilgisi/Alici_Adi'))
 

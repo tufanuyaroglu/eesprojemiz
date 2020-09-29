@@ -6,6 +6,14 @@
    <elementGuidId>ac14b6f2-8fb2-4278-93c9-d8df1fbffd35</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>#CurrencyUnit_DDD_L_LBT td</value>
       </entry>
