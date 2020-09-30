@@ -19,5 +19,5 @@ Feature: Faturanin departmanini geri al
     * Kullanıcı işlemlerinden Çıkış seçilir
 
     Examples: 
-      | filtreDegeri | filtreDegeri2 | veri_Adi                 | departman         |
-      |   01.01.2020 |    31.01.2020 | Logo Elektronik GIB Test | VirgosolDepartman |
+      | filtreDegeri | filtreDegeri2 | veri_Adi                 | departman |
+      | 01.01.2020   | 31.01.2020    | Logo Elektronik GIB Test | Muhasebe  |
